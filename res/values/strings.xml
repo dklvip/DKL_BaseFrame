@@ -1,0 +1,4 @@
+<resources>
+
+	<string name="txt_sorry_procedure_error_exit">很抱歉,程序出现异常,需要重启应用</string>
+</resources>
